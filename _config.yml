@@ -9,8 +9,8 @@ place_name: Seoul, SK
 # Blog info
 title: Do HD's Blog
 description: Blog
-url: https://brendanhasz.github.io/github-io-blog-template/
-main_github_io: false
+url: https://dungdo123.github.io
+main_github_io: true
 long_description: >-
     Hi!  Welcome to the template github.io blog site.  This can be a paragraph
     introducing yourself which will go at the top of the main page for your
