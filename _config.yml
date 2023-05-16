@@ -1,13 +1,13 @@
 # Info about you
-name: Your Name
-position: Job Title
-email: youremail@gmail.com
-company_name: Company Name
-company_url: https://www.yourcompany.com
-place_name: City, ST
+name: Do Huu Dung
+position: AI - Blockchain - Computer Science
+email: dungdo.hust@gmail.com
+company_name: VisionIn - Octan Network
+company_url: https://vision-in.co.kr/
+place_name: Seoul, SK
 
 # Blog info
-title: Your Name's Blog
+title: Do HD's Blog
 description: Blog
 url: https://brendanhasz.github.io/github-io-blog-template/
 main_github_io: false
@@ -17,12 +17,12 @@ long_description: >-
     blog.
 
 # Social links
-github_url: https://github.com/yourgithubusername
-linkedin_url: http://www.linkedin.com/in/your-name
+github_url: https://github.com/dungdo123
+linkedin_url: https://www.linkedin.com/in/dungdo398/
 social:
   links:
-    - http://www.linkedin.com/in/your-name
-    - https://github.com/yourgithubusername
+    - https://www.linkedin.com/in/dungdo398/
+    - https://github.com/dungdo123
 
 # Images + files
 logo: assets/img/headshot.svg
